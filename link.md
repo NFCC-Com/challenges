@@ -5,5 +5,7 @@ https://raw.githubusercontent.com/NFCC-Com/challenges/refs/heads/main/osint/logo
 https://raw.githubusercontent.com/NFCC-Com/challenges/refs/heads/main/osint/Gua_Keren/Gua_Keren.jpg
 https://raw.githubusercontent.com/NFCC-Com/challenges/refs/heads/main/osint/Kantin/chall.jpg
 https://raw.githubusercontent.com/NFCC-Com/challenges/refs/heads/main/osint/Where_I_Am/chall.jpg
+https://raw.githubusercontent.com/NFCC-Com/challenges/refs/heads/main/pwn/beruntung_lagi/chall
+https://raw.githubusercontent.com/NFCC-Com/challenges/refs/heads/main/pwn/beruntung_lagi/chall.c
 https://raw.githubusercontent.com/NFCC-Com/challenges/refs/heads/main/pwn/FD/fd
 https://raw.githubusercontent.com/NFCC-Com/challenges/refs/heads/main/reverse/Strings_Attached/strings_attached
