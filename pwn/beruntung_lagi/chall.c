@@ -1,5 +1,3 @@
-// chall.c
-// compile: gcc -no-pie -fno-stack-protector -o chall chall.c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -26,10 +24,9 @@ void vuln() {
         exit(1);
     }
 
-    // <-- vulnerable buffer in same function frame
+
     char name[64];
     printf("Enter your name:\n");
-    // unsafe: no length check -> allows overflow
     scanf("%s", name);
 
     printf("Thanks %s\n", name);
